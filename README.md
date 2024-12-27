@@ -28,7 +28,7 @@ Each D flip-flop in the circuit has a Data (D) input, a Clock (CLK) input, and a
 /* write all the steps invloved */
 
 **PROGRAM**
-~~~module experiment10(clk, sin, q);
+module experiment10(clk, sin, q);
 input clk;
 input sin;
 output [3:0] q;
@@ -39,8 +39,8 @@ q[0] <= sin;
 q[1] <= q[0];
 q[2] <= q[1];
 q[3] <= q[2];
-
-~~~endmodule
+end
+endmodule
 /* Program for flipflops and verify its truth table in quartus using Verilog programming.
 
 Developed by:R.Rabin  RegisterNumber:24900518
