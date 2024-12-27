@@ -49,14 +49,14 @@ Developed by:R.Rabin  RegisterNumber:24900518
 
 **RTL LOGIC FOR SISO Shift Register**
 
+![WhatsApp Image 2024-12-27 at 18 06 38_c4a9d9b3](https://github.com/user-attachments/assets/04f70098-a4cb-4e88-b246-fbb273b584ab)
 
-![image](https://github.com/user-attachments/assets/8d004c03-1019-407b-8826-d0695a600193)
 
 
 **TIMING DIGRAMS FOR SISO Shift Register**
 
 
-![image](https://github.com/user-attachments/assets/a83accfe-ec8d-422c-9561-baaa75655e52)
+![WhatsApp Image 2024-12-27 at 18 06 39_9c9a2556](https://github.com/user-attachments/assets/f14be3d0-410c-46b9-8fc4-a7aadd88aa74)
 
 
 **RESULTS**
