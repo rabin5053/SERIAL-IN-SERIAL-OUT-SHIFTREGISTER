@@ -48,16 +48,10 @@ Developed by:R.Rabin  RegisterNumber:24900518
 */
 
 **RTL LOGIC FOR SISO Shift Register**
-
-![WhatsApp Image 2024-12-27 at 18 06 38_c4a9d9b3](https://github.com/user-attachments/assets/04f70098-a4cb-4e88-b246-fbb273b584ab)
-
-
+![WhatsApp Image 2024-12-27 at 18 06 38_17e60a1c](https://github.com/user-attachments/assets/582c4bf0-59c4-4802-85d3-1981af40c749)
 
 **TIMING DIGRAMS FOR SISO Shift Register**
-
-
-![WhatsApp Image 2024-12-27 at 18 06 39_9c9a2556](https://github.com/user-attachments/assets/f14be3d0-410c-46b9-8fc4-a7aadd88aa74)
-
+![WhatsApp Image 2024-12-27 at 18 06 39_5548c26e](https://github.com/user-attachments/assets/6e1949cf-0a57-4e12-bbca-da6ff5daf902)
 
 **RESULTS**
 thus,SISO Shift Register using verilog and validating their functionality using their functional tables has successful execution of the program.
